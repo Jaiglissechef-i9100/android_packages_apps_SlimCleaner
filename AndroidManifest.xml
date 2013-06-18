@@ -40,7 +40,7 @@
         android:launchMode="singleTask"
         android:theme="@style/SlimOTA" >
         <activity
-            android:name="com.bam.cleaner.BamCleaner"
+            android:name="com.slim.cleaner.SlimCleaner"
             android:label="@string/sizer_title"
             android:parentActivityName="com.android.settings" >
             <meta-data
